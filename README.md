@@ -52,6 +52,9 @@ Gamified event tracking platform built with **React, Node.js, Express, MongoDB**
 ---
 
 ## Connect With Me
+
+I’m always happy to connect with other developers, share ideas, explore opportunities, or just have a chat over coffee. 🙃  
+
 [LinkedIn](https://www.linkedin.com/in/rithviksharma) | [GitHub](https://github.com/riv-k)
 
 ---
