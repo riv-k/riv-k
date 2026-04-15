@@ -1,8 +1,6 @@
 # Hey! I'm Rithvik Sharma
 
-I'm a **Computer Science graduate** and Full Stack Developer based in **Auckland, New Zealand**.  
-
-Currently completing the **Mission Ready Diploma in Digital Technology Development and Design**, building projects spanning **front-end, back-end, APIs, and databases**.  
+I'm a **Computer Science graduate** and Full Stack Developer based in **Auckland, New Zealand**, recently completed a 10-week internship at **Datacom** where I shipped 240+ commits across two repositories and contributed to an AI-powered platform built for ~6,000 employees. Currently open to **full stack developer roles**.
 
 ---
 
@@ -23,37 +21,40 @@ Currently completing the **Mission Ready Diploma in Digital Technology Developme
 
 ## Projects I'm Proud Of
 
-### [Mission Ready Fullstack Projects](https://github.com/riv-k/mission-ready-fullstack-projects)  
+### Product Hub + AssetFlow Engine (Datacom Internship)
+Internal platform for discovering and deploying AI-powered tools, built for ~6,000 Datacom employees. Contributed across **frontend (React/TypeScript)**, **backend (Python)**, **Azure cloud infrastructure**, and an **AI content generation pipeline**. 240+ commits over 10 weeks. *(Private repository)*
+
+### [Mission Ready Fullstack Projects](https://github.com/riv-k/mission-ready-fullstack-projects)
 A collection of **full stack apps inspired by real-world clients**, built with React, Node.js, Express, MongoDB, and REST APIs. Learned Agile workflows, testing, and Docker containerisation along the way.
 
-### [InnerPEACE (Capstone Project)](https://github.com/uoa-compsci399-s2-2024/capstone-project-team-17)  
+### [InnerPEACE (Capstone Project)](https://github.com/uoa-compsci399-s2-2024/capstone-project-team-17)
 Cross-platform mobile app supporting children with ADHD and anxiety. Built with **React Native, Node.js, Express, MongoDB**, featuring offline functionality and responsive UI. Iterative improvements based on user feedback.
 
-### [WDCC Passport](https://github.com/UoaWDCC/passport/wiki)  
+### [WDCC Passport](https://github.com/UoaWDCC/passport/wiki)
 Gamified event tracking platform built with **React, Node.js, Express, MongoDB**, integrating **Amazon S3** for image uploads. Collaborated in a 10-person agile team to deliver core features.
 
 ---
 
-## What I’m Currently Working On
-- Building **responsive, mobile-first full stack apps**
-- Applying **Agile, Scrum, and TDD practices** in real projects
-- Exploring **advanced front-end and back-end patterns** for maintainable, scalable code
-- Experimenting with **AI-assisted development** tools to boost productivity
+## What I'm Currently Exploring
+
+- Actively applying for **full stack developer roles** in NZ
+- Getting into **cybersecurity** — working through **HTB Academy** (Junior Cybersecurity Analyst path) on the side
+- Continuing to experiment with **AI-assisted development** workflows
+- Tinkering with the idea of a **home lab** setup
 
 ---
 
 ## Next Goals
-- Dive into **cloud technologies** and modern deployment practices  
-- Develop more **cross-platform mobile applications**  
-- Apply current learnings to create **robust, real-world systems**  
-- Gain XP and level up my **GitHub stats** ⏫🆙  
-- Build a **portfolio webpage** showcasing projects, plus a small section highlighting my interests (like sky photography)  
+
+- Land my first full-time dev role
+- Earn the **HTB Certified Junior Cybersecurity Associate (CJCA)** certification
+- Pursue **CompTIA Security+** off the back of that
+- Go deeper into **cloud and security** — understanding the stack I build on, not just building on it
+- Set up a **home lab** for hands-on security experimentation
 
 ---
 
 ## Connect With Me
-
-I’m always happy to connect with other developers, share ideas, explore opportunities, or just have a chat over coffee. 🙃  
 
 [LinkedIn](https://www.linkedin.com/in/rithviksharma) | [GitHub](https://github.com/riv-k)
 
